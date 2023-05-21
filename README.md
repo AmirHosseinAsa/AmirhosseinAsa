@@ -8,7 +8,7 @@ I'm currently working on a website called mupo.ir and making apps and games!
 Here are a few examples of the projects I've worked on:
 
 ### Mupo 🎧
-[Mupo](https://mupo.ir) is a persian music streaming service that lets you listen to your favorite songs and discover new ones. It's inspired by Spotify and YouTube Music, but with its own unique features and design. Check out the source code here!
+[Mupo](https://mupo.ir) is a persian music streaming service that lets you listen to your favorite songs and discover new ones. It's inspired by Spotify and YouTube Music, but with its own unique features and design.
 
 ### AnimePlanet 📺
 AnimePlanet is an app that allows you to watch anime for free without any ads. It's a great way to enjoy your favorite shows without interruptions.
