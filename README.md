@@ -9,7 +9,7 @@ I'm currently working on Project Z and a website called mupo.ir and making apps 
 ## 🚀 Some of my projects
 Here are a few examples of the projects I've worked on:
 
-### Dallify 🎧
+### Dallify 🤖
 Dallify is an AI image generator that uses the DALL-E API to generate stunning images with prompts.
 
 ### Mupo 🎧
