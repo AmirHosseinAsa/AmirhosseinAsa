@@ -9,6 +9,9 @@ I'm currently working on Project Z and a website called mupo.ir and making apps 
 ## 🚀 Some of my projects
 Here are a few examples of the projects I've worked on:
 
+### Dallify 🎧
+Dallify is an AI image generator that uses the DALL-E API to generate stunning images with prompts.
+
 ### Mupo 🎧
 [Mupo](https://mupo.ir) is a persian music streaming service that lets you listen to your favorite songs and discover new ones. It's inspired by Spotify and YouTube Music, but with its own unique features and design.
 
