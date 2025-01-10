@@ -7,6 +7,6 @@ I am currently living life like nomad
 I'm always looking for new collaborators and partners, so if you have a cool project idea or just want to work together on something, let's chat! You can contact me through:
 
 ### Email: amirhossein.asa.official@gmail.com
-### Twitter: amirhossein_asa
+### X (twitter): amas_he
 ### Instagram: amirhossein.asa
 Thanks for visiting my GitHub page! I can't wait to hear from you. 😎
